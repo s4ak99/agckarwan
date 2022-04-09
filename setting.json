@@ -6,7 +6,7 @@
   "name-folder-sitemap":"sitemap",
   "element-remove":[
   "",
-  "",
+  "noscript",
   "meta",
     "",
     "",
