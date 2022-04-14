@@ -5,7 +5,7 @@
   "target":"http://194.233.76.164",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
-    "script",
+    "",
     "noscript",
     "meta",
     "iframe",
