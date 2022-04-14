@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"http://xvideos.com",
+  "target":"http://www.xvideos.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "",
@@ -20,20 +20,20 @@
   ],
   "costom-element-remove":[
     {
-      "target":"stackoverflow.com",
+      "target":"xvideos.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
       "replace-string":[
         {
-          "target":"https://stackoverflow.com",
+          "target":"https://www.xvideos.com",
           "replace":"${nameWeb}"
         }
       ]
     },
     {
-      "target":"xvideos.com",
+      "target":"www.xvideos.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
