@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://tribunnews.com",
+  "target":"https://194.233.76.164",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "target":"tribunnews.com",
+      "target":"194.233.76.164",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
