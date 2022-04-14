@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://www.pornhub.com",
+  "target":"https://pornhub.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
   "",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "target":"m.pornhub.com",
+      "target":"pornhub.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
