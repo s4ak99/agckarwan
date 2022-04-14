@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://xnxx.com",
+  "target":"https://www.pornhub.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
   "",
@@ -20,20 +20,20 @@
   ],
   "costom-element-remove":[
     {
-      "target":"xnxx.com",
+      "target":"pornhub.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
       "replace-string":[
         {
-          "target":"https://xnxx.com",
+          "target":"https://www.pornhub.com",
           "replace":"${nameWeb}"
         }
       ]
     },
     {
-      "target":"m.xnxx.com",
+      "target":"m.pornhub.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
@@ -49,7 +49,7 @@
       "replace-string":[]
     },
     {
-      "target":"www.xnxx.com",
+      "target":"www.pornhub.com",
       "element-remove-selector":[
         ".box-header",
         ".box-language",
@@ -59,7 +59,7 @@
       "replace-string":[]
     },
     {
-      "target":"xnxx.com",
+      "target":"pornhub.com",
       "element-remove-selector":[
         "header",
         ".trail-wrapper",
