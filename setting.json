@@ -5,7 +5,7 @@
   "target":"http://www.xvideos.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
-    "",
+    "script",
     "noscript",
     "meta",
     "iframe",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "target":"www.xvideos.com",
+      "target":"xvideos.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
