@@ -20,14 +20,14 @@
   ],
   "costom-element-remove":[
     {
-      "target":"xvideos.com",
+      "target":"stackoverflow.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
       "replace-string":[
         {
-          "target":"https://www.xvideos.com",
+          "target":"https://stackoverflow.com",
           "replace":"${nameWeb}"
         }
       ]
