@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"http://www.xvideos.com",
+  "target":"http://zeven.xyz",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "target":"xvideos.com",
+      "target":"zeven.xyz",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
