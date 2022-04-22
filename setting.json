@@ -23,12 +23,12 @@
       "target":"stackoverflow.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
-        ".lazy-loading"
+        ""
       ],
       "replace-string":[
         {
           "target":"https://stackoverflow.com",
-          "replace":"${nameWeb}"
+          "replace":"${BokehFree}"
         }
       ]
     },
