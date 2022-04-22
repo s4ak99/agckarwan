@@ -13,7 +13,7 @@
     "ins",
     "form",
     ".js-consent-banner",
-    ".js-dismissable-hero",
+    "",
     ".js-sidebar-zone",
     "#teams-promo",
     ".quickedit"
@@ -22,7 +22,7 @@
     {
       "target":"stackoverflow.com",
       "element-remove-selector":[
-        ".js-dismissable-hero",
+        "",
         ""
       ],
       "replace-string":[
@@ -42,7 +42,7 @@
         ".box__reserved.mh10.nativeads",
         ".box__reserved.mh27.sticky",
         ".box__reserved.mh60.sticky",
-        ".box__reserved.ivideo_box",
+        "",
         ".box__reserved.fb_box.ac.mb20.bgwhite.bdr.facebook",
         ".box__reserved.mh10"
       ],
