@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://qidvd.com/",
+  "target":"https://zeven.xyz/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "target":"qidvd.com",
+      "target":"zeven.xyz",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
