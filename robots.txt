@@ -1,4 +1,9 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
 User-agent: *
+Disallow: /search
 Allow: /
 
-Sitemap: https://agc-heroku.herokuapp.com/sitemap.xml
+Sitemap: https://karwan93.xyz/host-https-www.xnxx.com/sitemap.xml
+Sitemap: https://karwan93.xyz/host-http-www.xnxx.com/sitemap_uploads_new.xml
