@@ -2,11 +2,11 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"http://www.xvideos.com",
+  "target":"https://xnxx3.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "",
-    "noscript",
+   "noscript",
     "meta",
     "iframe",
     "embed",
@@ -28,12 +28,12 @@
       "replace-string":[
         {
           "target":"https://stackoverflow.com",
-          "replace":"${nameWeb}"
+          "replace":"${BokehFree}"
         }
       ]
     },
     {
-      "target":"xvideos.com",
+      "target":"xnxx3.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
@@ -42,7 +42,7 @@
         ".box__reserved.mh10.nativeads",
         ".box__reserved.mh27.sticky",
         ".box__reserved.mh60.sticky",
-        ".box__reserved.ivideo_box",
+       ".box__reserved.ivideo_box",
         ".box__reserved.fb_box.ac.mb20.bgwhite.bdr.facebook",
         ".box__reserved.mh10"
       ],
