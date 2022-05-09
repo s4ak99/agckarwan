@@ -8,7 +8,7 @@
 	<xsl:template match="/">
 		<html xmlns="http://www.w3.org/1999/xhtml">
 		<head>
-			<meta name="propeller" content="cd1e47d8432f19cdaa951457c61401d3">
+			<meta name="propeller" content="cd1e47d8432f19cdaa951457c61401d3"/>
 			<title>XML Sitemap</title>
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 			<style type="text/css">
